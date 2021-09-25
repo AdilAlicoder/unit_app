@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252268271740",
+    "project_id": "timevalute",
+    "storage_bucket": "timevalute.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252268271740:android:1c21c43bfb7261bda991f9",
+        "android_client_info": {
+          "package_name": "com.example.time"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252268271740-4qsqkfumnmf0l77ca4ur41ne4gi2rl99.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLNC7LlXBKCr9T3VS5Axhd9V9HfBwuE94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252268271740-4qsqkfumnmf0l77ca4ur41ne4gi2rl99.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
